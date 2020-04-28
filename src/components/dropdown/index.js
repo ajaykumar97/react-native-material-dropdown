@@ -709,7 +709,7 @@ export default class Dropdown extends PureComponent {
       height,
       top,
       left,
-      transform: [{ translateY }],
+//       transform: [{ translateY }],
     };
 
     let touchableProps = {
